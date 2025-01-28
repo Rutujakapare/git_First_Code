@@ -1,5 +1,8 @@
+---- create Database -----
 CREATE DATABASE GITCODE
 USE GITCODE
+
+  ------ create table -----
 CREATE TABLE STUDENT
 (
 ID INT,
