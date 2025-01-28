@@ -13,6 +13,3 @@ DEPT VARCHAR(50),
 SALARY BIGINT
 )
 
-SELECT * FROM STUDENT 
-
-insert into STUDENT values(1,'Vaishnavi','Pune',9373192850,'ENTC',50000)
